@@ -1,0 +1,26 @@
+{
+  "name": "logo-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoSapien21/LOGO-CREATOR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudoSapien21/LOGO-CREATOR/issues"
+  },
+  "homepage": "https://github.com/SudoSapien21/LOGO-CREATOR#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
