@@ -19,5 +19,5 @@ https://drive.google.com/file/d/1vDX1YLmLG1vlDVdSyfrp5Ew8wQRapDT8/view
 
 
 ![Invalid Shape](./examples/invalid%20shape.JPG)
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Alt text](./examples/image.png)
+![Alt text](./examples/image-1.png)
