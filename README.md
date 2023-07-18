@@ -17,10 +17,7 @@ Thank You to the Instructors, TAs, and Classmates who have helped with codes and
 https://drive.google.com/file/d/1vDX1YLmLG1vlDVdSyfrp5Ew8wQRapDT8/view
 
 
-![logo2](./examples/logo2.svg)
-![logo](./examples/logo.svg)
-![logo1](./examples/logo1.svg)
+
 ![Invalid Shape](./examples/invalid%20shape.JPG)
-
-
-
+![Alt text](image.png)
+![Alt text](image-1.png)
